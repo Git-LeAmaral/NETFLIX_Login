@@ -8,3 +8,7 @@ button, e forms".
 ## HTML / CSS
 
 Link para visualização:  https://git-leamaral.github.io/NETFLIX_Login/
+
+## Imagem
+
+![Netflix](https://user-images.githubusercontent.com/101153930/179381648-44637b2c-213d-4a6e-98b5-d84a0f87dcfc.png)
